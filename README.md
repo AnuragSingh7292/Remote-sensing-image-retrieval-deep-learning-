@@ -67,3 +67,9 @@ Single models ranking: MobileNet > ResNet > InceptionV3 > VGG
 Fusion models ranking: ResNet family fusion > Pairwise ResNet fusion > MobileNet fusion
 
 Best configuration: ResNet50 + ResNet101 + ResNet152
+
+
+
+📄 Research Paper  
+This work is part of an ongoing research study.  
+The research paper based on these experiments is currently **under preparation / review** and will be uploaded here once officially published.  
